@@ -1,6 +1,6 @@
 body {
   background: url(../img/double-bubble-outline.png) fixed;
-  padding:50px;
+  padding: 150px;
   font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#595959;
   font-weight:400;
@@ -176,7 +176,7 @@ section {
   background-color: white;
   border: solid;
   border-color: whitesmoke;
-  border-width: 1px;
+  border-width: 2px;
 }
 
 small {
@@ -253,7 +253,7 @@ footer {
 
 @media print, screen and (max-width: 480px) {
   body {
-    padding:15px;
+    padding:20px;
   }
 
   header ul {
