@@ -108,6 +108,10 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  background-color: white;
+  border: solid;
+  border-color: whitesmoke;
+  border-width: 2px;
 }
 
 header ul {
